@@ -95,6 +95,8 @@
     [self.imageConnection cancel];
     self.imageConnection = nil;
     self.activeDownload = nil;
+    //tst
+    NSLog(@"first change");
 }
 
 
